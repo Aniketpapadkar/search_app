@@ -1,0 +1,89 @@
+
+
+.header{
+   width:100%;
+   min-height: 100vh;
+  padding:0%;
+   background-image: url('https://www.becomingminimalist.com/wp-content/uploads/2017/07/project-333-outfit-combinations.jpg');
+   background-position: center;
+   background-size: cover;
+    display:flex;
+   align-items:baseline;
+   justify-content:center;
+   
+   
+   
+
+}
+.search_bar{
+    margin-top: 5%;
+    width: 100%;
+    max-width: 700px;
+   
+    background:white;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    padding:0px 20px;
+    
+}
+.search_bar input{
+    background:transparent;
+    flex:1;
+    border:0;
+    outline: none;
+    padding:20px 10px;
+    font-size: 20px;
+   
+
+}
+.search_bar button i{
+   width: 60px;
+   height: 20px;
+   
+   
+
+}
+.search_bar button{
+    border: 0;
+    border-radius:0%;
+    width: 60px;
+    height: 60px;
+    background: #fff;
+    cursor: pointer;
+    
+
+}
+
+.box{
+    margin:0 60px;
+    display: flex;
+}
+.option_b{
+    width: 100%;
+    max-width: 300px;
+    border: none;
+    outline: 0;
+   font-size: 15px;
+   margin-top: 10px;
+}
+.Data_container{
+   width:65%;
+   margin:0 auto;
+   margin-top: 25px;
+   display:grid;
+   grid-template-columns: repeat(4,minmax(200px,0.5fr));
+   
+    
+
+   
+}
+.template{
+    margin:30px;
+    padding:0px 10px;
+    
+}
+.template img{
+    height:250px;
+    
+}

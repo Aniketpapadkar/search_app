@@ -1,0 +1,57 @@
+[
+  {
+    "id":1,
+    "image":"./images/Dress.1.jpg",
+    "title":"Round neck Tee",
+    "price": "Rs.549",
+    "star":"&star;&star;&star;&star;&star;"
+    
+  },
+  {
+    "id":2,
+    "image":"./images/Dress_2.jpg",
+    "title":"Short skirt",
+    "price": "Rs.599"
+    
+    
+  },
+  {
+    "id":3,
+    "image":"./images/Dress_3.jpg",
+    "title":" Beach Maxi",
+    "price": "Rs.599"
+  },
+  {
+    "id":4,
+    "image":"./images/Dress_4.jpg",
+    "title":" long suit",
+    "price":"RS.870"
+  },
+  {
+    "id":5,
+    "image":"./images/Dress_5.jpg",
+    "title":"  Orange  Ruched Mini Dress ",
+    "price":"RS.678"
+  },
+  {
+    "id":6,
+    "image":"./images/Dress_6.jpg",
+    "title":"  Red shot  Party Dress ",
+    "price":"RS.790"
+  },
+  {
+    "id":7,
+    "image":"./images/Dress_7.jpg",
+    "title":" Satin Ruched Side Mini Dress ",
+    "price":"RS.990"
+  },
+  {
+    "id":8,
+    "image":"./images/Dress_8.jpg",
+    "title":" ANNA dress with neckline  ",
+    "price":"RS.800"
+  }
+  
+  
+
+]
